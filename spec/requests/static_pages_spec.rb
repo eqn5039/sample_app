@@ -1,3 +1,5 @@
+#redo the exercises from chapter 5
+
 require 'spec_helper'
 
 describe "Static pages" do
